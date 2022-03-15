@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning (Codeigniter, Laravel 8 & 9, Android Kotlin MVP Viper Architecture)
 - 💞️ I’m looking to collaborate on Android
 - 📫 How to reach me dm me on instagram @oriorasajambu
-- :smile: [My Google Developer Profile](g.dev/oriorasajambu)
+- :smile: [My Google Developer Profile](https://g.dev/oriorasajambu)
